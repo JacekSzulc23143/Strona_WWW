@@ -1,1 +1,1 @@
-# Responsywna_strona_WWW
+# Strona_WWW
